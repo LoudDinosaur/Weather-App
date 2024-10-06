@@ -1,3 +1,4 @@
+**Weather App**
 This weather application is built using JavaScript and integrated with a weather API to provide real-time weather information. The app predicts the current weather for the user's location and allows users to search for weather conditions anywhere in the world. Along with the temperature, it displays key weather metrics such as humidity, wind speed, and cloudiness, making it a comprehensive tool for quick weather updates.
 
 **Features**
