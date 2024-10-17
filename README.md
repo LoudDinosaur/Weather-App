@@ -20,7 +20,7 @@ The app fetches real-time weather data using a weather API (such as OpenWeatherM
 2. **API Integration:** Weather data fetched using a weather API (OpenWeatherMap).
 3. **Geolocation API:** Used to fetch the user's current location.
    
-📖 **Usage**
+## 📖 **Usage**
 1. Open the app in any web browser. It will detect your current location and display the weather data.
 2. Use the search bar to find weather information for any city or location worldwide.
 3. The app will present details such as temperature, humidity, wind speed, and cloudiness in a neat and organized layout.
