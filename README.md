@@ -7,7 +7,7 @@ This weather application is built using JavaScript and integrated with a weather
 3. **Detailed Weather Information:** Provides temperature, humidity, wind speed, and cloudiness for any location.
 4. **Responsive Design:** The application is designed to work on various screen sizes, with styling done using CSS for a clean, user-friendly interface.
  
-##🛠️ **How It Works**
+## 🛠️ **How It Works**
 The app fetches real-time weather data using a weather API (such as OpenWeatherMap or WeatherAPI). When a user opens the app, it utilizes the browser's geolocation API to retrieve the user's current coordinates and then makes a request to the weather API to fetch the weather information for that location. Users can also search for the weather of any place globally by entering the location in the search bar, and the app displays the relevant data, including:
 
 1. **Temperature:** The current temperature in Celsius.
